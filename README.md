@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cite9233)](https://solved.ac/cite9233)
 
 
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=zener&show_icons=true&theme=highcontrast) 
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=zener&show_icons=true&theme=tokyonight)  
 
 </div>
